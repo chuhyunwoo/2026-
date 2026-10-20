@@ -31,3 +31,4 @@
 2. **S vs N (인식 방식)**: 감각적/현실적 vs 직관적/아이디어 지향 성향 분석 (3문항)
 3. **T vs F (판단 방식)**: 사고 중심(논리) vs 감정 중심(공감) 성향 분석 (3문항)
 4. **J vs P (생활 양식)**: 계획적/체계적 vs 즉흥적/자유분방 성향 분석 (3문항)
+<img width="1094" height="797" alt="image" src="https://github.com/user-attachments/assets/0415125a-4033-45f6-a904-97dc913b42ae" />
